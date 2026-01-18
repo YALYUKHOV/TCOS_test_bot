@@ -1,0 +1,5 @@
+{
+  "name": "TCOS Quiz Bot - Telegram Assistant",
+  "description": "A comprehensive Python-based Telegram bot for testing students on Digital Signal Processing (TCOS) topics, complete with a React-based documentation landing page.",
+  "requestFramePermissions": []
+}
